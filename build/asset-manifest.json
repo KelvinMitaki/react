@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.844e0450.chunk.css",
+    "main.js": "/react/static/js/main.760f86aa.chunk.js",
+    "main.js.map": "/react/static/js/main.760f86aa.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.60b72f37.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.60b72f37.js.map",
+    "static/css/2.63e8e1db.chunk.css": "/react/static/css/2.63e8e1db.chunk.css",
+    "static/js/2.d846d24d.chunk.js": "/react/static/js/2.d846d24d.chunk.js",
+    "static/js/2.d846d24d.chunk.js.map": "/react/static/js/2.d846d24d.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.b98b8391d0758f148137872888672976.js": "/react/precache-manifest.b98b8391d0758f148137872888672976.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/2.63e8e1db.chunk.css.map": "/react/static/css/2.63e8e1db.chunk.css.map",
+    "static/css/main.844e0450.chunk.css.map": "/react/static/css/main.844e0450.chunk.css.map",
+    "static/media/Weather.css": "/react/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/react/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b72f37.js",
+    "static/css/2.63e8e1db.chunk.css",
+    "static/js/2.d846d24d.chunk.js",
+    "static/css/main.844e0450.chunk.css",
+    "static/js/main.760f86aa.chunk.js"
+  ]
+}
