@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.343d675b.chunk.css",
+    "main.css": "/react/static/css/main.844e0450.chunk.css",
     "main.js": "/react/static/js/main.12c49f3b.chunk.js",
     "main.js.map": "/react/static/js/main.12c49f3b.chunk.js.map",
     "runtime-main.js": "/react/static/js/runtime-main.60b72f37.js",
@@ -9,10 +9,10 @@
     "static/js/2.cecb154b.chunk.js": "/react/static/js/2.cecb154b.chunk.js",
     "static/js/2.cecb154b.chunk.js.map": "/react/static/js/2.cecb154b.chunk.js.map",
     "index.html": "/react/index.html",
-    "precache-manifest.6fe1ca1681f02ab8d9cfeb152e73432c.js": "/react/precache-manifest.6fe1ca1681f02ab8d9cfeb152e73432c.js",
+    "precache-manifest.aad60e5cbe65558d70853e4f2dc9f9d0.js": "/react/precache-manifest.aad60e5cbe65558d70853e4f2dc9f9d0.js",
     "service-worker.js": "/react/service-worker.js",
     "static/css/2.63e8e1db.chunk.css.map": "/react/static/css/2.63e8e1db.chunk.css.map",
-    "static/css/main.343d675b.chunk.css.map": "/react/static/css/main.343d675b.chunk.css.map",
+    "static/css/main.844e0450.chunk.css.map": "/react/static/css/main.844e0450.chunk.css.map",
     "static/media/Weather.css": "/react/static/media/bg.b6796c73.jpg",
     "static/media/bootstrap.min.css": "/react/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.60b72f37.js",
     "static/css/2.63e8e1db.chunk.css",
     "static/js/2.cecb154b.chunk.js",
-    "static/css/main.343d675b.chunk.css",
+    "static/css/main.844e0450.chunk.css",
     "static/js/main.12c49f3b.chunk.js"
   ]
 }
