@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KelvinMitaki/KelvinMitaki.github.io.git/static/css/main.35d3f634.chunk.css",
+    "main.js": "/KelvinMitaki/KelvinMitaki.github.io.git/static/js/main.0a75c3fa.chunk.js",
+    "main.js.map": "/KelvinMitaki/KelvinMitaki.github.io.git/static/js/main.0a75c3fa.chunk.js.map",
+    "runtime-main.js": "/KelvinMitaki/KelvinMitaki.github.io.git/static/js/runtime-main.af4a8e33.js",
+    "runtime-main.js.map": "/KelvinMitaki/KelvinMitaki.github.io.git/static/js/runtime-main.af4a8e33.js.map",
+    "static/css/2.8e79252a.chunk.css": "/KelvinMitaki/KelvinMitaki.github.io.git/static/css/2.8e79252a.chunk.css",
+    "static/js/2.cecb154b.chunk.js": "/KelvinMitaki/KelvinMitaki.github.io.git/static/js/2.cecb154b.chunk.js",
+    "static/js/2.cecb154b.chunk.js.map": "/KelvinMitaki/KelvinMitaki.github.io.git/static/js/2.cecb154b.chunk.js.map",
+    "index.html": "/KelvinMitaki/KelvinMitaki.github.io.git/index.html",
+    "precache-manifest.bb9d2062bb438fbcd26fac3dd23fc318.js": "/KelvinMitaki/KelvinMitaki.github.io.git/precache-manifest.bb9d2062bb438fbcd26fac3dd23fc318.js",
+    "service-worker.js": "/KelvinMitaki/KelvinMitaki.github.io.git/service-worker.js",
+    "static/css/2.8e79252a.chunk.css.map": "/KelvinMitaki/KelvinMitaki.github.io.git/static/css/2.8e79252a.chunk.css.map",
+    "static/css/main.35d3f634.chunk.css.map": "/KelvinMitaki/KelvinMitaki.github.io.git/static/css/main.35d3f634.chunk.css.map",
+    "static/media/Weather.css": "/KelvinMitaki/KelvinMitaki.github.io.git/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/KelvinMitaki/KelvinMitaki.github.io.git/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af4a8e33.js",
+    "static/css/2.8e79252a.chunk.css",
+    "static/js/2.cecb154b.chunk.js",
+    "static/css/main.35d3f634.chunk.css",
+    "static/js/main.0a75c3fa.chunk.js"
+  ]
+}
